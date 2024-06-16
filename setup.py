@@ -8,10 +8,10 @@ setup(
     py_modules=["code"],
     author='foma',
     author_email='fomaximenkov@gmail.com',
-    description='Мощное средство для сбора логов с различных устройств, предоставляющие инструменты для эффективного мониторинга и анализа системных событий',
+    description='A powerful tool for collecting logs from various devices, providing tools for effective monitoring and analysis of system events',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/fffomiii/pythonProject',
+    url='https://github.com/fffomiii/f0ma',
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
