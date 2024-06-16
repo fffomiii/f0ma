@@ -1,46 +1,46 @@
 # f0ma
 
-## Описание
-Мощное средство для сбора логов с различных устройств, предоставляющие инструменты для эффективного мониторинга и анализа системных событий.
+## Description
+A powerful tool for collecting logs from various devices, providing tools for effective monitoring and analysis of system events.
 
-## Установка и запуск
+## Installation and launch
 
 ### Windows
-1. Скачайте и распакуйте проект.
-2. Откройте командную строку и перейдите в папку проекта.
-3. Запустите batch скрипт:
+1. Download and unpack the project.
+2. Open a command prompt and go to your project folder.
+3. Run the batch script:
     ```cmd
     run_windows.bat
     ```
 
 ### Unix/Linux/MacOS
-1. Скачайте и распакуйте проект.
-2. Откройте терминал и перейдите в папку проекта.
-3. Сделайте скрипт исполняемым 
+1. Download and unpack the project.
+2. Open a terminal and go to your project folder.
+3. Make the script executable 
    ```bash
     chmod +x run_unix.sh
    ```
-4. Запустите скрипт
+4. Run the script
    ```bash
     ./run_unix.sh
     ```
-## Скриншоты
+## Screenshots
 
-### Интерфейс "Визуального сервера системного журнала от f0ma"
+### Interface of the "Visual syslog server by f0ma""
 ![Main Interface](images/1.jpg)
 
-### Окно настройки соединения
+### Connection settings window
 ![Another Screenshot](images/2.jpg)
 
-### Окно настройки ротации
+### Rotation settings window
 ![Main Interface](images/3.jpg)
 
-### Окно настройки цветового выделения
+### Color selection window
 ![Another Screenshot](images/4.jpg)
 
-### Окно настройки реагирования
+### Reaction settings window
 ![Main Interface](images/5.jpg)
 
-### Окно настройки фильтрации
+### Filtering settings window
 ![Another Screenshot](images/6.jpg)
 

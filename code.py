@@ -117,7 +117,7 @@ class SyslogServer(tk.Tk):
         self.upd_enabled = False
         self.server = None
 
-        self.title("Visual Syslog Server for Linux")
+        self.title("Visual Syslog Server by f0ma")
         self.geometry("800x600")
 
         self.toolbar_frame = ttk.Frame(self)
